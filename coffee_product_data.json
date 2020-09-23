@@ -1,0 +1,337 @@
+{
+    "peets coffee":[
+        {
+            "name":"Anniversary 2020",
+            "short_description":"A celebration of 100% women-grown coffee, perfectly balanced between bright and sweet.",
+            "price":"$19.95",
+            "rating":"4.5",
+            "flavor_note":"Fine chocolate and cherry notes melt to a velvety finish",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Major Dickason's Blend\u00ae",
+            "short_description":"Conceived by one of the first Peetniks and refined by Mr. Peet, this premier blend is our all-time bestseller.",
+            "price":"$16.95",
+            "rating":"4.8",
+            "flavor_note":"Rich, smooth, and complex, with a very full body and multi-layered character.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"House Blend",
+            "short_description":"A perennial customer favorite, this inviting Latin American blend is a perfect introduction to Peet\u2019s coffees.",
+            "price":"$14.95",
+            "rating":"4.8",
+            "flavor_note":"Lively, sweet, and familiar Latin Blend",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"French Roast",
+            "short_description":"To brew French Roast is a commitment to a rich, powerful taste, pronounced smoky overtones, and pleasant bite.",
+            "price":"$15.95",
+            "rating":"4.7",
+            "flavor_note":"Coffee-forward, smoky, bittersweet, hints of caramel.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Arabian Mocha-Java",
+            "short_description":"The world\u2019s most famous blend, created with Java and Arabian mocha beans long before coffee was widely grown.",
+            "price":"$17.95",
+            "rating":"4.7",
+            "flavor_note":"Full-bodied, with bittersweet chocolate overtones enhancing a rich complexity.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Guatemala San Sebasti\u00e1n",
+            "short_description":"The best farm in Antigua and a favorite of our Roastmasters for more than 40 years.",
+            "price":"$17.95",
+            "rating":"4.7",
+            "flavor_note":"Cacao-rich, elegant acidity, the very best of Antigua.",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Yosemite Dos Sierras Organic",
+            "short_description":"Complex and satisfying, with milk chocolate sweetness. Now available year-round.",
+            "price":"$18.95",
+            "rating":"4.7",
+            "flavor_note":"Complex and satisfying with milk chocolate sweetness.",
+            "flavor_category":"NUTTY / CHOCOLATEY",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Organic French Roast",
+            "short_description":"To brew French Roast is a commitment to a rich, powerful taste, pronounced smoky overtones, and pleasant bite.",
+            "price":"$18.95",
+            "rating":"4.6",
+            "flavor_note":"Coffee-forward, smoky, bittersweet, hints of caramel.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Uzuri African Blend\u00ae",
+            "short_description":"A beautiful, fully sustainable coffee that helps small-scale farmers improve their lives.",
+            "price":"$17.95",
+            "rating":"4.8",
+            "flavor_note":"Orange blossom, black cherry, silky-smooth body.",
+            "flavor_category":"FRUITY / FLORAL",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Gaia Organic Blend\u00ae",
+            "short_description":"A bounteous world blend of certified organic coffees from Africa, Indonesia, and the Americas.",
+            "price":"$18.95",
+            "rating":"4.7",
+            "flavor_note":"Floral to full-bodied, three-region organic extravagance.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Aged Sumatra",
+            "short_description":"Known for complex flavors originally developed on Dutch spice trade voyages, now imparted by our aging method.",
+            "price":"$17.95",
+            "rating":"4.6",
+            "flavor_note":"Rich and ample-bodied. Dried fruit sweetness, tropical wood and herbal notes.",
+            "flavor_category":"HERBAL / EARTHY",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Arabian Mocha Sanani",
+            "short_description":"Harsh, dry mountain terrain and primitive farming give this full-bodied desert miracle a distinctive wildness.",
+            "price":"$25.95",
+            "rating":"4.6",
+            "flavor_note":"Lush and full bodied with hints of cocoa and dates, and a complex, pungent aroma.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Baridi Blend",
+            "short_description":"Artfully crafted for cold brew, this blend of bold, juicy East African coffees is refreshingly crisp.",
+            "price":"$16.95",
+            "rating":"4.3",
+            "flavor_note":"Inherently sweet and aromatic with a clean finish.",
+            "flavor_category":"FRUITY / FLORAL",
+            "roast_lv":"MEDIUM"
+        },
+        {
+            "name":"Big Bang",
+            "short_description":"A brilliant blend to celebrate our 50th anniversary, featuring the exotic fruitiness of Ethiopian Super Natural.",
+            "price":"$16.95",
+            "rating":"4.3",
+            "flavor_note":"Vibrant blast of tropical fruit in a smooth, medium style",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"MEDIUM"
+        },
+        {
+            "name":"Brazil Minas Naturais",
+            "short_description":"Naturally processed coffee cherries from the Minas Gerais region, sweetened by the Brazilian sun.",
+            "price":"$15.95",
+            "rating":"4.5",
+            "flavor_note":"Smooth, full bodied and sun-dried sweet with natural notes of hazelnut.",
+            "flavor_category":"NUTTY / CHOCOLATEY",
+            "roast_lv":"MEDIUM"
+        },
+        {
+            "name":"Caf\u00e9 Domingo\u00ae",
+            "short_description":"This medium-roast blend was crafted from three Latin American coffees for slow sipping and savoring.",
+            "price":"$16.95",
+            "rating":"4.6",
+            "flavor_note":"Smooth and balanced, with hints of toffee sweetness and a crisp, clean finish.",
+            "flavor_category":"NUTTY / CHOCOLATEY",
+            "roast_lv":"MEDIUM"
+        },
+        {
+            "name":"Colombia",
+            "short_description":"Only the most exceptional growths of Colombia, often from the high southern redoubt of San Agustin, Huila.",
+            "price":"$15.95",
+            "rating":"5.0",
+            "flavor_note":"Balanced brightness and sweetness. Full-bodied, with shades of the coffee fruit.",
+            "flavor_category":"FRUITY / FLORAL",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Colombia Luminosa",
+            "short_description":"Our lightest and brightest roast with exceptional flavor that is distinctly Peet's.",
+            "price":"$14.95",
+            "rating":"4.6",
+            "flavor_note":"Pleasant mild, smooth flavor with delicately sweet aromas",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"LIGHT"
+        },
+        {
+            "name":"Costa Rica",
+            "short_description":"Our single-origin Costa Rica is a true regional coffee that reflects the country\u2019s vibrant, venerable culture.",
+            "price":"$17.95",
+            "rating":"4.7",
+            "flavor_note":"A satisfying, full-bodied cup with deep, pungent flavor and a hint of smokiness just below the surface.",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Costa Rica Aurora",
+            "short_description":"The dawn of something great. Costa Rica meets Kenya for a brand new day in coffee.",
+            "price":"$16.95",
+            "rating":"4.9",
+            "flavor_note":"Layers of dark, silken berry meet bright, clean citrus sweetness.",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"LIGHT"
+        },
+        {
+            "name":"Espresso Forte\u00ae",
+            "short_description":"Crafted specifically for espresso, this superbly balanced blend has stout body, rich flavor and perfect crema.",
+            "price":"$16.95",
+            "rating":"4.7",
+            "flavor_note":"Robust, with rounded body, thick, creamy consistency and a tangy core of flavor.",
+            "flavor_category":"NUTTY / CHOCOLATEY",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Ethiopian Fancy",
+            "short_description":"An elegant experience from Ethiopia, the birthplace of coffee, meticulously prepared by the washed method.",
+            "price":"$17.95",
+            "rating":"4.5",
+            "flavor_note":"Medium-bodied and pungent, with tangy citrus flavors and lingering floral aroma.",
+            "flavor_category":"FRUITY / FLORAL",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Garuda Blend\u00ae",
+            "short_description":"A blend of the finest single-origin Indo-Pacific coffees that celebrates the diverse flavors of the islands.",
+            "price":"$16.95",
+            "rating":"4.8",
+            "flavor_note":"Full-bodied, broad, and aromatic. Richly textured with earthy, nutty, character.",
+            "flavor_category":"NUTTY / CHOCOLATEY",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Italian Roast",
+            "short_description":"A penetrating roast just shy of French with flavorful, full-bodied coffees from Latin America and the Pacific.",
+            "price":"$16.95",
+            "rating":"4.9",
+            "flavor_note":"Vigorous and intense, with immense depth and texture. Rewardingly flavorful.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Kenya Auction Lot",
+            "short_description":"The most prized auction and private sale microlots, never blended but artisan roasted one after the other.",
+            "price":"$18.95",
+            "rating":"4.7",
+            "flavor_note":"Big and juicy. Browned sugar sweetness with sublime berry and citrus overtones.",
+            "flavor_category":"FRUITY / FLORAL",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"New Guinea Highlands",
+            "short_description":"The volcanic soil of Papua New Guinea turns Jamaican Blue Mountain beans into one of the world\u2019s best coffees.",
+            "price":"$17.95",
+            "rating":"4.7",
+            "flavor_note":"Rich and mellow, yet aromatically complex. Full-bodied with broad flavors.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Sulawesi-Kalosi",
+            "short_description":"Traditional cultivation methods and semi-aging make this rare coffee taste like it was grown in heaven.",
+            "price":"$17.95",
+            "rating":"4.8",
+            "flavor_note":"Full bodied and uniquely complex. Intoxicating herbal, nutty, earthy flavors.",
+            "flavor_category":"HERBAL / EARTHY",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Sumatra",
+            "short_description":"Cultivated in small gardens and rustically hand processed, this Indo-Pacific coffee is a classic favorite.",
+            "price":"$17.95",
+            "rating":"4.6",
+            "flavor_note":"Rustic and earthy, with a hefty body, complex sweetness and herbal nuances.",
+            "flavor_category":"HERBAL / EARTHY",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Decaf Mocca-Java",
+            "short_description":"Water-process decaffeination makes this rich, ancient blend of Java and Ethiopian Mocca a discerning decaf.",
+            "price":"$18.95",
+            "rating":"4.8",
+            "flavor_note":"Complex and chocolaty flavors, with a well-rounded body and touch of sweetness.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Decaf Major Dickason's Blend\u00ae",
+            "short_description":"Our most popular blend, without caffeine. Quite possibly the most flavorful cup of decaf you\u2019ll ever have.",
+            "price":"$17.95",
+            "rating":"4.9",
+            "flavor_note":"All the rich complexity and body of the original. A surprisingly bold decaf.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Decaf House Blend",
+            "short_description":"The signature Peet\u2019s roast gives our Decaf House more body and complexity than almost any other decaf blend.",
+            "price":"$16.95",
+            "rating":"4.8",
+            "flavor_note":"Medium",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Decaf French Roast",
+            "short_description":"This blend of decaffeinated Latin American coffees has all the rich, dark flavor of our regular French Roast.",
+            "price":"$16.95",
+            "rating":"4.8",
+            "flavor_note":"Powerful, smoky flavors and complexity without all the caffeine.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Decaf Sumatra",
+            "short_description":"With the same richness and character as our regular Sumatra, it\u2019s hard to imagine this is a decaf coffee.",
+            "price":"$18.95",
+            "rating":"4.8",
+            "flavor_note":"Very full-bodied, with rustic complexity and earthy, nutty, subtly herbal flavors.",
+            "flavor_category":"HERBAL / EARTHY",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Sumatra Solok Radjo",
+            "short_description":"A deeply satisfying Sumatra with surprising acidity and a refreshing mission: re-forestation",
+            "price":"$19.95",
+            "rating":"4.3",
+            "flavor_note":"Herbal and pepper aromatics; spicy and complex with surprising acidity",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Red Mocha Haraaz",
+            "short_description":"A coffee of ancient origin and a bit of a miracle\u2014one of the richest and most exquisite cups of the year.",
+            "price":"$29.95",
+            "rating":"4.5",
+            "flavor_note":"Delicate aromas of cherry blossom, deep wine and fruit notes, and a dry cocoa finish.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"MEDIUM"
+        },
+        {
+            "name":"JR Reserve Blend\u00ae",
+            "short_description":"Our most exquisite coffee blend, created by Roastmaster Emeritus Jim Reynolds from rare lots.",
+            "price":"$25.95",
+            "rating":"4.5",
+            "flavor_note":"Exceptionally complex and full-bodied, revealing hints of chocolate and spice.",
+            "flavor_category":"SPICY / COMPLEX",
+            "roast_lv":"DARK"
+        },
+        {
+            "name":"Kona",
+            "short_description":"Our single-estate, 100% Kona combines the top two grades\u2014Fancy and Extra Fancy\u2014for extra dimension.",
+            "price":"$25.95",
+            "rating":"4.0",
+            "flavor_note":"Hibiscus aroma with passion fruit sweetness. Delicate, apricot finish. ",
+            "flavor_category":"BRIGHT / CITRUS / SWEET",
+            "roast_lv":"DARK"
+        }
+    ]
+}
